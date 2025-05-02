@@ -1,4 +1,7 @@
-# Weather Prediction for Oakland Airpot by using Ridge Model
+# Potato Disease Classification using CNN (Image Classification)
+
+## Problem Statement: Potato farmers face significant economic losses due to diseases like early blight (fungal) and late blight (microbial). Early detection and accurate identification are crucial, as each disease requires different treatment to minimize crop damage and financial loss.
+
 ## Libraries (pandas, matplotlib, sklearn)
 
 ### Data Cleaning and Processing
